@@ -1,0 +1,5 @@
+com\example\inyeccionDependenciasAutowired\controller\aplicacionController.class
+com\example\inyeccionDependenciasAutowired\InyeccionDependenciasAutowiredApplication.class
+com\example\inyeccionDependenciasAutowired\model\Posteo.class
+com\example\inyeccionDependenciasAutowired\repository\PosteoRepository.class
+com\example\inyeccionDependenciasAutowired\repository\IPosteoRepository.class
